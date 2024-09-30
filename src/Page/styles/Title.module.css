@@ -1,0 +1,10 @@
+.container,
+.title {
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .title {
+    text-align: center;
+  }
+}

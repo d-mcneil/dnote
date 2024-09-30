@@ -1,0 +1,77 @@
+[
+    {
+        "id": "ahJ7uMBxZECS_V6z887uP",
+        "type": "text",
+        "value": "(Note: Any changes made as the demo user will be discarded when you navigate away from the page.)"
+    },
+    {
+        "id": "_u79unQtyk2zebRo0yJlC",
+        "type": "image",
+        "value": "0.6990788632294302.jpg"
+    },
+    {
+        "id": "cxJ7uMBxZEvS_V6z8N1ux",
+        "type": "text",
+        "value": "Return to start page:"
+    },
+    {
+        "type": "page",
+        "value": "start-demo",
+        "id": "dD6vnH44xO5gTg5ZmPUt3"
+    },
+    {
+        "id": "UQhI5aMTq4sgBGM0C3L3T",
+        "type": "text",
+        "value": ""
+    },
+    {
+        "id": "uC5CVSiKPsR6c_xyGRkO6",
+        "type": "text",
+        "value": ""
+    },
+    {
+        "id": "WViJ35P4KKYAEuQDQHM6T",
+        "type": "text",
+        "value": "The foundation of this project comes from the \"Build a Notion Clone with TypeScript\" course from Zero to Mastery."
+    },
+    {
+        "id": "FH3_cJZ1yejRPPXXVHB4y",
+        "type": "text",
+        "value": ""
+    },
+    {
+        "id": "JSl7iaTj-sjqYnR2YjLZ5",
+        "type": "text",
+        "value": "Zero to Mastery (ZTM):"
+    },
+    {
+        "id": "V2lKjQaixDM3sdt8iJl9m",
+        "type": "list",
+        "value": "https://zerotomastery.io/"
+    },
+    {
+        "id": "j-Z5AAX680q7BwhUAH1S9",
+        "type": "text",
+        "value": "Course:"
+    },
+    {
+        "id": "DAxwJUMlkLUh5UnaIiZL5",
+        "type": "list",
+        "value": "https://zerotomastery.io/courses/react-project-ideas-notion-clone/"
+    },
+    {
+        "id": "UICGbU3l34NM_HooKYF_v",
+        "type": "text",
+        "value": ""
+    },
+    {
+        "id": "9dm-7J5LttQrV18XalLdx",
+        "type": "text",
+        "value": "A big thank you to Maksim Ivanov (course instructor) and Andrei Neagoie (ZTM founder) for a great course!"
+    },
+    {
+        "id": "2dnPGje12pu6riDO9zFLe",
+        "type": "image",
+        "value": "0.5372665877639469.jpg"
+    }
+]

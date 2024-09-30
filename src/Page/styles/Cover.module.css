@@ -1,0 +1,60 @@
+.cover {
+  position: relative;
+  top: 0;
+  border-bottom: 2px solid #eaeaea;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.button {
+  position: absolute;
+  bottom: 20px;
+  right: 90px;
+  padding: 6px;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  background: white;
+  border: 2px solid #888;
+  border-radius: 4px;
+  color: #6f6f6f;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.cover:hover .button {
+  opacity: 1;
+}
+
+.image {
+  max-width: 100%;
+}
+
+.cover,
+.image {
+  max-height: min(15vh, 300px);
+  min-height: max(15vh, 200px);
+}
+
+@media (max-height: 600px) {
+  .image,
+  .cover {
+    max-height: 20vh;
+    min-height: 20vh;
+  }
+}
+
+.remove-cover {
+  transform: translateX(-220%);
+}
+
+.change-cover {
+  transform: translateX(-110%);
+}
+
+.color-picker {
+  visibility: hidden;
+  position: absolute;
+  bottom: 15px;
+  right: 90px;
+}
